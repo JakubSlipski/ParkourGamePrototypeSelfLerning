@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b44c0c504baeb524bb8254312691cf2d, type: 3}
+  m_Name: Weak_Medkit
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5670499637355357544, guid: 2af04aa53031c014db1d425e3725afc7, type: 3}
+  type: 0
+  icon: {fileID: 21300000, guid: 15b9bf9fd5478434eb638fa7a5ba671a, type: 3}
+  description: HEaling low amount
+  castTime: 1.3
+  healing: 15
